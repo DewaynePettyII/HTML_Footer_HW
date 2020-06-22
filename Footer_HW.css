@@ -1,0 +1,24 @@
+.class-timesnewroman{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#id-cntr{
+    text-align: center;
+    background-color: lightsalmon;
+    padding: 1px;
+}
+#id-article{
+    color: black;
+    background-color: white;
+    padding: 2%;
+}
+.class-back{
+    color: #000;
+    background-color:lightgray;
+    padding: 7px;
+    padding-top: 1px;}
+
+    
+.class-whte{
+    background-color: white
+    ;color: black;
+}
